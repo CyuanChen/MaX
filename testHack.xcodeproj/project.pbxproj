@@ -8,13 +8,41 @@
 
 /* Begin PBXBuildFile section */
 		389F48ED1B06FD5F0072C27A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389F48EC1B06FD5F0072C27A /* AppDelegate.swift */; };
-		389F48EF1B06FD5F0072C27A /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389F48EE1B06FD5F0072C27A /* RootViewController.swift */; };
-		389F48F11B06FD5F0072C27A /* DataViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389F48F01B06FD5F0072C27A /* DataViewController.swift */; };
-		389F48F31B06FD5F0072C27A /* ModelController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389F48F21B06FD5F0072C27A /* ModelController.swift */; };
 		389F48F61B06FD5F0072C27A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 389F48F41B06FD5F0072C27A /* Main.storyboard */; };
 		389F48F81B06FD5F0072C27A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 389F48F71B06FD5F0072C27A /* Images.xcassets */; };
 		389F48FB1B06FD5F0072C27A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 389F48F91B06FD5F0072C27A /* LaunchScreen.xib */; };
 		389F49071B06FD5F0072C27A /* testHackTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389F49061B06FD5F0072C27A /* testHackTests.swift */; };
+		389F491D1B070E0E0072C27A /* ChooseStyleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389F491C1B070E0E0072C27A /* ChooseStyleViewController.swift */; };
+		389F49491B07A8BE0072C27A /* 11296493_953121608042161_693079954_o (1).jpg in Resources */ = {isa = PBXBuildFile; fileRef = 389F493E1B07A8BE0072C27A /* 11296493_953121608042161_693079954_o (1).jpg */; };
+		389F494A1B07A8BE0072C27A /* 11259959_953121731375482_1436975658_o.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 389F493F1B07A8BE0072C27A /* 11259959_953121731375482_1436975658_o.jpg */; };
+		389F494B1B07A8BE0072C27A /* 11297113_953121668042155_1200769073_o.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 389F49401B07A8BE0072C27A /* 11297113_953121668042155_1200769073_o.jpg */; };
+		389F494C1B07A8BE0072C27A /* 11288592_953121631375492_963136408_o.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 389F49411B07A8BE0072C27A /* 11288592_953121631375492_963136408_o.jpg */; };
+		389F494D1B07A8BE0072C27A /* 11268970_953121858042136_767140428_o.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 389F49421B07A8BE0072C27A /* 11268970_953121858042136_767140428_o.jpg */; };
+		389F494E1B07A8BE0072C27A /* 11264918_953121644708824_2012259056_o.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 389F49431B07A8BE0072C27A /* 11264918_953121644708824_2012259056_o.jpg */; };
+		389F494F1B07A8BE0072C27A /* 11259959_953121618042160_1147525432_o.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 389F49441B07A8BE0072C27A /* 11259959_953121618042160_1147525432_o.jpg */; };
+		389F49501B07A8BE0072C27A /* 11261452_953121601375495_950380971_n.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 389F49451B07A8BE0072C27A /* 11261452_953121601375495_950380971_n.jpg */; };
+		389F49511B07A8BE0072C27A /* 11296369_953121724708816_1506281130_o.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 389F49461B07A8BE0072C27A /* 11296369_953121724708816_1506281130_o.jpg */; };
+		389F49521B07A8BE0072C27A /* 11288592_953121634708825_1327195320_o.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 389F49471B07A8BE0072C27A /* 11288592_953121634708825_1327195320_o.jpg */; };
+		389F49531B07A8BE0072C27A /* 11281485_953121641375491_1096600317_o.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 389F49481B07A8BE0072C27A /* 11281485_953121641375491_1096600317_o.jpg */; };
+		389F49551B07B78F0072C27A /* MAX.png in Resources */ = {isa = PBXBuildFile; fileRef = 389F49541B07B78F0072C27A /* MAX.png */; };
+		389F495F1B0810F80072C27A /* 襯衫1.png in Resources */ = {isa = PBXBuildFile; fileRef = 389F49561B0810F80072C27A /* 襯衫1.png */; };
+		389F49601B0810F80072C27A /* 褲子2.png in Resources */ = {isa = PBXBuildFile; fileRef = 389F49571B0810F80072C27A /* 褲子2.png */; };
+		389F49611B0810F80072C27A /* 褲子1.png in Resources */ = {isa = PBXBuildFile; fileRef = 389F49581B0810F80072C27A /* 褲子1.png */; };
+		389F49621B0810F80072C27A /* 上衣.png in Resources */ = {isa = PBXBuildFile; fileRef = 389F49591B0810F80072C27A /* 上衣.png */; };
+		389F49631B0810F80072C27A /* 手錶2.png in Resources */ = {isa = PBXBuildFile; fileRef = 389F495A1B0810F80072C27A /* 手錶2.png */; };
+		389F49641B0810F80072C27A /* 包包1.png in Resources */ = {isa = PBXBuildFile; fileRef = 389F495B1B0810F80072C27A /* 包包1.png */; };
+		389F49651B0810F80072C27A /* 外套2.png in Resources */ = {isa = PBXBuildFile; fileRef = 389F495C1B0810F80072C27A /* 外套2.png */; };
+		389F49661B0810F80072C27A /* 鞋子1.png in Resources */ = {isa = PBXBuildFile; fileRef = 389F495D1B0810F80072C27A /* 鞋子1.png */; };
+		389F49671B0810F80072C27A /* 鞋子2.png in Resources */ = {isa = PBXBuildFile; fileRef = 389F495E1B0810F80072C27A /* 鞋子2.png */; };
+		389F49691B0811270072C27A /* 上衣1.png in Resources */ = {isa = PBXBuildFile; fileRef = 389F49681B0811270072C27A /* 上衣1.png */; };
+		389F496B1B081BFC0072C27A /* ClothSuggestController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389F496A1B081BFC0072C27A /* ClothSuggestController.swift */; };
+		389F496D1B084F850072C27A /* cindy.png in Resources */ = {isa = PBXBuildFile; fileRef = 389F496C1B084F850072C27A /* cindy.png */; };
+		389F496F1B0851820072C27A /* FinalPageController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389F496E1B0851820072C27A /* FinalPageController.swift */; };
+		389F49741B08636A0072C27A /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 389F49701B0863690072C27A /* 1.png */; };
+		389F49751B08636A0072C27A /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 389F49711B0863690072C27A /* 2.png */; };
+		389F49761B08636A0072C27A /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 389F49721B0863690072C27A /* 3.png */; };
+		389F49771B08636A0072C27A /* right.png in Resources */ = {isa = PBXBuildFile; fileRef = 389F49731B0863690072C27A /* right.png */; };
+		389F49791B0863830072C27A /* left.png in Resources */ = {isa = PBXBuildFile; fileRef = 389F49781B0863830072C27A /* left.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -31,15 +59,43 @@
 		389F48E71B06FD5F0072C27A /* testHack.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testHack.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		389F48EB1B06FD5F0072C27A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		389F48EC1B06FD5F0072C27A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		389F48EE1B06FD5F0072C27A /* RootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
-		389F48F01B06FD5F0072C27A /* DataViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataViewController.swift; sourceTree = "<group>"; };
-		389F48F21B06FD5F0072C27A /* ModelController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelController.swift; sourceTree = "<group>"; };
 		389F48F51B06FD5F0072C27A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		389F48F71B06FD5F0072C27A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		389F48FA1B06FD5F0072C27A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		389F49001B06FD5F0072C27A /* testHackTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testHackTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		389F49051B06FD5F0072C27A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		389F49061B06FD5F0072C27A /* testHackTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testHackTests.swift; sourceTree = "<group>"; };
+		389F491C1B070E0E0072C27A /* ChooseStyleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChooseStyleViewController.swift; sourceTree = "<group>"; };
+		389F493E1B07A8BE0072C27A /* 11296493_953121608042161_693079954_o (1).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "11296493_953121608042161_693079954_o (1).jpg"; sourceTree = "<group>"; };
+		389F493F1B07A8BE0072C27A /* 11259959_953121731375482_1436975658_o.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11259959_953121731375482_1436975658_o.jpg; sourceTree = "<group>"; };
+		389F49401B07A8BE0072C27A /* 11297113_953121668042155_1200769073_o.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11297113_953121668042155_1200769073_o.jpg; sourceTree = "<group>"; };
+		389F49411B07A8BE0072C27A /* 11288592_953121631375492_963136408_o.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11288592_953121631375492_963136408_o.jpg; sourceTree = "<group>"; };
+		389F49421B07A8BE0072C27A /* 11268970_953121858042136_767140428_o.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11268970_953121858042136_767140428_o.jpg; sourceTree = "<group>"; };
+		389F49431B07A8BE0072C27A /* 11264918_953121644708824_2012259056_o.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11264918_953121644708824_2012259056_o.jpg; sourceTree = "<group>"; };
+		389F49441B07A8BE0072C27A /* 11259959_953121618042160_1147525432_o.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11259959_953121618042160_1147525432_o.jpg; sourceTree = "<group>"; };
+		389F49451B07A8BE0072C27A /* 11261452_953121601375495_950380971_n.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11261452_953121601375495_950380971_n.jpg; sourceTree = "<group>"; };
+		389F49461B07A8BE0072C27A /* 11296369_953121724708816_1506281130_o.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11296369_953121724708816_1506281130_o.jpg; sourceTree = "<group>"; };
+		389F49471B07A8BE0072C27A /* 11288592_953121634708825_1327195320_o.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11288592_953121634708825_1327195320_o.jpg; sourceTree = "<group>"; };
+		389F49481B07A8BE0072C27A /* 11281485_953121641375491_1096600317_o.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11281485_953121641375491_1096600317_o.jpg; sourceTree = "<group>"; };
+		389F49541B07B78F0072C27A /* MAX.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MAX.png; sourceTree = "<group>"; };
+		389F49561B0810F80072C27A /* 襯衫1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "襯衫1.png"; sourceTree = "<group>"; };
+		389F49571B0810F80072C27A /* 褲子2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "褲子2.png"; sourceTree = "<group>"; };
+		389F49581B0810F80072C27A /* 褲子1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "褲子1.png"; sourceTree = "<group>"; };
+		389F49591B0810F80072C27A /* 上衣.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "上衣.png"; sourceTree = "<group>"; };
+		389F495A1B0810F80072C27A /* 手錶2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "手錶2.png"; sourceTree = "<group>"; };
+		389F495B1B0810F80072C27A /* 包包1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "包包1.png"; sourceTree = "<group>"; };
+		389F495C1B0810F80072C27A /* 外套2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "外套2.png"; sourceTree = "<group>"; };
+		389F495D1B0810F80072C27A /* 鞋子1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "鞋子1.png"; sourceTree = "<group>"; };
+		389F495E1B0810F80072C27A /* 鞋子2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "鞋子2.png"; sourceTree = "<group>"; };
+		389F49681B0811270072C27A /* 上衣1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "上衣1.png"; sourceTree = "<group>"; };
+		389F496A1B081BFC0072C27A /* ClothSuggestController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClothSuggestController.swift; sourceTree = "<group>"; };
+		389F496C1B084F850072C27A /* cindy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cindy.png; sourceTree = "<group>"; };
+		389F496E1B0851820072C27A /* FinalPageController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FinalPageController.swift; sourceTree = "<group>"; };
+		389F49701B0863690072C27A /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		389F49711B0863690072C27A /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		389F49721B0863690072C27A /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		389F49731B0863690072C27A /* right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = right.png; sourceTree = "<group>"; };
+		389F49781B0863830072C27A /* left.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = left.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,10 +138,10 @@
 			isa = PBXGroup;
 			children = (
 				389F48EC1B06FD5F0072C27A /* AppDelegate.swift */,
-				389F48EE1B06FD5F0072C27A /* RootViewController.swift */,
-				389F48F01B06FD5F0072C27A /* DataViewController.swift */,
-				389F48F21B06FD5F0072C27A /* ModelController.swift */,
 				389F48F41B06FD5F0072C27A /* Main.storyboard */,
+				389F496E1B0851820072C27A /* FinalPageController.swift */,
+				389F496A1B081BFC0072C27A /* ClothSuggestController.swift */,
+				389F491C1B070E0E0072C27A /* ChooseStyleViewController.swift */,
 				389F48F71B06FD5F0072C27A /* Images.xcassets */,
 				389F48F91B06FD5F0072C27A /* LaunchScreen.xib */,
 				389F48EA1B06FD5F0072C27A /* Supporting Files */,
@@ -96,6 +152,34 @@
 		389F48EA1B06FD5F0072C27A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				389F493E1B07A8BE0072C27A /* 11296493_953121608042161_693079954_o (1).jpg */,
+				389F493F1B07A8BE0072C27A /* 11259959_953121731375482_1436975658_o.jpg */,
+				389F49401B07A8BE0072C27A /* 11297113_953121668042155_1200769073_o.jpg */,
+				389F49411B07A8BE0072C27A /* 11288592_953121631375492_963136408_o.jpg */,
+				389F49421B07A8BE0072C27A /* 11268970_953121858042136_767140428_o.jpg */,
+				389F49431B07A8BE0072C27A /* 11264918_953121644708824_2012259056_o.jpg */,
+				389F49441B07A8BE0072C27A /* 11259959_953121618042160_1147525432_o.jpg */,
+				389F49451B07A8BE0072C27A /* 11261452_953121601375495_950380971_n.jpg */,
+				389F49541B07B78F0072C27A /* MAX.png */,
+				389F49461B07A8BE0072C27A /* 11296369_953121724708816_1506281130_o.jpg */,
+				389F49471B07A8BE0072C27A /* 11288592_953121634708825_1327195320_o.jpg */,
+				389F49701B0863690072C27A /* 1.png */,
+				389F49711B0863690072C27A /* 2.png */,
+				389F49781B0863830072C27A /* left.png */,
+				389F49721B0863690072C27A /* 3.png */,
+				389F49731B0863690072C27A /* right.png */,
+				389F496C1B084F850072C27A /* cindy.png */,
+				389F49481B07A8BE0072C27A /* 11281485_953121641375491_1096600317_o.jpg */,
+				389F49561B0810F80072C27A /* 襯衫1.png */,
+				389F49571B0810F80072C27A /* 褲子2.png */,
+				389F49681B0811270072C27A /* 上衣1.png */,
+				389F49581B0810F80072C27A /* 褲子1.png */,
+				389F49591B0810F80072C27A /* 上衣.png */,
+				389F495A1B0810F80072C27A /* 手錶2.png */,
+				389F495B1B0810F80072C27A /* 包包1.png */,
+				389F495C1B0810F80072C27A /* 外套2.png */,
+				389F495D1B0810F80072C27A /* 鞋子1.png */,
+				389F495E1B0810F80072C27A /* 鞋子2.png */,
 				389F48EB1B06FD5F0072C27A /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -167,6 +251,7 @@
 				TargetAttributes = {
 					389F48E61B06FD5F0072C27A = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = 55V6ERRQ79;
 					};
 					389F48FF1B06FD5F0072C27A = {
 						CreatedOnToolsVersion = 6.3.1;
@@ -198,9 +283,37 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				389F49751B08636A0072C27A /* 2.png in Resources */,
+				389F49551B07B78F0072C27A /* MAX.png in Resources */,
+				389F494C1B07A8BE0072C27A /* 11288592_953121631375492_963136408_o.jpg in Resources */,
+				389F49761B08636A0072C27A /* 3.png in Resources */,
+				389F49671B0810F80072C27A /* 鞋子2.png in Resources */,
+				389F494F1B07A8BE0072C27A /* 11259959_953121618042160_1147525432_o.jpg in Resources */,
+				389F49791B0863830072C27A /* left.png in Resources */,
+				389F49641B0810F80072C27A /* 包包1.png in Resources */,
+				389F49611B0810F80072C27A /* 褲子1.png in Resources */,
 				389F48F61B06FD5F0072C27A /* Main.storyboard in Resources */,
+				389F49741B08636A0072C27A /* 1.png in Resources */,
+				389F495F1B0810F80072C27A /* 襯衫1.png in Resources */,
+				389F49511B07A8BE0072C27A /* 11296369_953121724708816_1506281130_o.jpg in Resources */,
+				389F49491B07A8BE0072C27A /* 11296493_953121608042161_693079954_o (1).jpg in Resources */,
 				389F48FB1B06FD5F0072C27A /* LaunchScreen.xib in Resources */,
+				389F494E1B07A8BE0072C27A /* 11264918_953121644708824_2012259056_o.jpg in Resources */,
+				389F496D1B084F850072C27A /* cindy.png in Resources */,
 				389F48F81B06FD5F0072C27A /* Images.xcassets in Resources */,
+				389F49771B08636A0072C27A /* right.png in Resources */,
+				389F49651B0810F80072C27A /* 外套2.png in Resources */,
+				389F49601B0810F80072C27A /* 褲子2.png in Resources */,
+				389F494B1B07A8BE0072C27A /* 11297113_953121668042155_1200769073_o.jpg in Resources */,
+				389F494D1B07A8BE0072C27A /* 11268970_953121858042136_767140428_o.jpg in Resources */,
+				389F494A1B07A8BE0072C27A /* 11259959_953121731375482_1436975658_o.jpg in Resources */,
+				389F49631B0810F80072C27A /* 手錶2.png in Resources */,
+				389F49521B07A8BE0072C27A /* 11288592_953121634708825_1327195320_o.jpg in Resources */,
+				389F49691B0811270072C27A /* 上衣1.png in Resources */,
+				389F49531B07A8BE0072C27A /* 11281485_953121641375491_1096600317_o.jpg in Resources */,
+				389F49621B0810F80072C27A /* 上衣.png in Resources */,
+				389F49661B0810F80072C27A /* 鞋子1.png in Resources */,
+				389F49501B07A8BE0072C27A /* 11261452_953121601375495_950380971_n.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -218,10 +331,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				389F48EF1B06FD5F0072C27A /* RootViewController.swift in Sources */,
-				389F48F31B06FD5F0072C27A /* ModelController.swift in Sources */,
-				389F48F11B06FD5F0072C27A /* DataViewController.swift in Sources */,
+				389F496B1B081BFC0072C27A /* ClothSuggestController.swift in Sources */,
 				389F48ED1B06FD5F0072C27A /* AppDelegate.swift in Sources */,
+				389F491D1B070E0E0072C27A /* ChooseStyleViewController.swift in Sources */,
+				389F496F1B0851820072C27A /* FinalPageController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -350,9 +463,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = testHack/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -360,9 +476,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = testHack/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
